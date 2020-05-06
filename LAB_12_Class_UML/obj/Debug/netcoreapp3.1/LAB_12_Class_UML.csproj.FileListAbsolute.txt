@@ -1,0 +1,13 @@
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\obj\Debug\netcoreapp3.1\LAB_12_Class_UML.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\obj\Debug\netcoreapp3.1\LAB_12_Class_UML.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\obj\Debug\netcoreapp3.1\LAB_12_Class_UML.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\bin\Debug\netcoreapp3.1\LAB_12_Class_UML.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\bin\Debug\netcoreapp3.1\LAB_12_Class_UML.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\bin\Debug\netcoreapp3.1\LAB_12_Class_UML.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\bin\Debug\netcoreapp3.1\LAB_12_Class_UML.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\bin\Debug\netcoreapp3.1\LAB_12_Class_UML.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\bin\Debug\netcoreapp3.1\LAB_12_Class_UML.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\obj\Debug\netcoreapp3.1\LAB_12_Class_UML.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\obj\Debug\netcoreapp3.1\LAB_12_Class_UML.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\obj\Debug\netcoreapp3.1\LAB_12_Class_UML.genruntimeconfig.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_12_Class_UML\LAB_12_Class_UML\obj\Debug\netcoreapp3.1\LAB_12_Class_UML.csprojAssemblyReference.cache
